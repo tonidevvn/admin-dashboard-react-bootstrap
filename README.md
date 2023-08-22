@@ -1,19 +1,19 @@
 # Admin-dashboard by React+bootstrap
 
-A simple convert an Bootstrap Admin Dashboard into React JS
+A simple project build an Admin Dashboard with React JS and Boostrap
 
 Download HTML/Boostrap/Boostrap4/Bootstrap5 Admin Dashboard
 
-Demo
+## Demo
 
 <pre>
 <code>https://startbootstrap.com/previews/sb-admin-2</code>
 </pre>
 
-Download
+## Download
 
 <pre>
-<code>https://startbootstrap.com/theme/sb-admin-2#</code>
+<code>https://startbootstrap.com/theme/sb-admin-2</code>
 </pre>
 
 ## Install
@@ -43,10 +43,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Screenshots
 
-PC version
+### PC version
+
 ![Screenshot-2](/public/SB_admin_screenshot_pc.jpg?raw=true "Admin dashboard PC version")
 
-Mobile version
+### Mobile version
+
 ![Screenshot-1](/public/SB_admin_screenshot_mobile.jpg?raw=true "Admin dashboard Mobile version")
 
 ## 🚀 Styling
